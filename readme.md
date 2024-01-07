@@ -7,27 +7,38 @@
 
 - [awesome-mendix ](#awesome-mendix-)
   - [Contents](#contents)
-  - [Section](#section)
-  - [Another Section](#another-section)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
     - [Subsection](#subsection)
+  - [Blog Posts](#blog-posts)
+  - [Videos](#videos)
   - [Contribute](#contribute)
 
 
-## Section
+## Official Resources
 
-About this section. Optional. Keep this short and focus on the list.
+Mendix 공식 문서, 블로그 및 학습 자료
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
 
-## Another Section
+## Community
 
 ### Subsection
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+## Blog Posts
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+## Videos
+
+- [List item](http://example.com)
+- [List item](http://example.com)
 
 ## Contribute
 
