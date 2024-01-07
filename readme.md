@@ -13,6 +13,7 @@
   - [Videos](#videos)
     - [YouTube 채널](#youtube-채널)
     - [YouTube 강의](#youtube-강의)
+    - [On-Demand Demo](#on-demand-demo)
     - [한국어 영상 및 자막 지원 영상](#한국어-영상-및-자막-지원-영상)
   - [Contribute](#contribute)
 
@@ -61,6 +62,10 @@ Mendix 공식 문서, 블로그 및 학습 자료
 
 - [How to Mendix @멘딕스 웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo)
 - [Mendix 첫걸음 @멘딕스 웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF)
+
+### On-Demand Demo
+
+- [Version Control and CI/CD with Mendix and Azure DevOps](https://www.mendix.com/videos/version-control-and-ci-cd-with-mendix-and-azure-devops/) - This video cover how to setup your Azure environment to deploy Mendix, building a CI/CD Pipeline to checkout your latest code and build deploy your Mendix app and some ideas on how to enhance your Mendix CI/CD pipeline.
 
 ### 한국어 영상 및 자막 지원 영상
 
