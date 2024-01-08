@@ -9,6 +9,7 @@
   - [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Community](#community)
+  - [Git Repos](#git-repos)
   - [Blog Posts](#blog-posts)
   - [Videos](#videos)
     - [YouTube 채널](#youtube-채널)
@@ -43,6 +44,10 @@ Mendix 공식 문서, 블로그 및 학습 자료
 - [파트너 블로그](https://www.mendix.com/partners/blog/) - 멘딕스 파트너 블로그
 - [Mendix Forum](https://community.mendix.com/index3.html) - 멘딕스 커뮤니티 포럼
 
+
+## Git Repos
+
+- [Mendix MK Kit Demo](https://github.com/mendix/mlkit-example-app)
 
 ## Blog Posts
 
