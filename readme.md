@@ -52,6 +52,7 @@ Mendix 공식 문서, 블로그 및 학습 자료
 ## Blog Posts
 
 - [Mendix With Me](https://mendixwithme.medium.com/) - Mendix With Me Medium 포스팅
+- [Deploy Mendix app to Kubernetes without corrupting your data](https://cinaq.com/blog/2023/06/05/deploy-mendix-app-to-kubernetes-without-corrupting-your-data/) - MX4PC 배포 시 유의 사항에 대한 포스팅. Blue-Green 배포 방안에 대한 대안 소개
 
 
 ## Videos
