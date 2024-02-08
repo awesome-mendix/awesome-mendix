@@ -43,6 +43,7 @@ Mendix 공식 문서, 블로그 및 학습 자료
 
 - [파트너 블로그](https://www.mendix.com/partners/blog/) - 멘딕스 파트너 블로그
 - [Mendix Forum](https://community.mendix.com/index3.html) - 멘딕스 커뮤니티 포럼
+- [한국 커뮤니티](https://community.mendix.com/link/space/korean-community) - 멘딕스 커뮤니티 내 한국 커뮤니티
 
 
 ## Git Repos
