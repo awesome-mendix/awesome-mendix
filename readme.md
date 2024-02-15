@@ -16,6 +16,9 @@
     - [YouTube 강의](#youtube-강의)
     - [On-Demand Demo](#on-demand-demo)
     - [한국어 영상 및 자막 지원 영상](#한국어-영상-및-자막-지원-영상)
+  - [Mendix 4 Private Cloud and Private Mendix Platform](#mendix-4-private-cloud-and-private-mendix-platform)
+    - [Mendix 4 Private Cloud (MX4PC)](#mendix-4-private-cloud-mx4pc)
+    - [Private Mendix Platform](#private-mendix-platform)
   - [Contribute](#contribute)
 
 
@@ -77,6 +80,17 @@ Mendix 공식 문서, 블로그 및 학습 자료
 ### 한국어 영상 및 자막 지원 영상
 
 - [제조산업의 디지털 혁신을 위한 차세대 애플리케이션 개발 플랫폼](https://youtu.be/hycW2MzUyXc?si=_faL8F7stQC5kVgb): [PLM 컨퍼런스 2022] 멘딕스 - 지멘스 디지털 인더스트리 소프트웨어 김재성 본부장
+
+
+## Mendix 4 Private Cloud and Private Mendix Platform
+
+### Mendix 4 Private Cloud (MX4PC)
+- [MX4PC on AWS](https://aws.amazon.com/ko/solutions/partners/terraform-modules/mendix-eks/) - AWS 기반 MX4PC 설치 참조 아키텍처
+- [MX4PC on AWS 설치(Terraform EKS 모듈 사용)](https://registry.terraform.io/modules/aws-ia/mendix-private-cloud/aws/latest) - MX4PC 설치 Terraform 모듈 (테라폼을 이용하여 MX4PC를 손쉽게 구성)
+- 
+
+### Private Mendix Platform
+- 
 
 
 ## Contribute
