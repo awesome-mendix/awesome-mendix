@@ -76,7 +76,7 @@ Mendix 공식 문서, 블로그 및 학습 자료
 ### On-Demand Demo
 
 - [Version Control and CI/CD with Mendix and Azure DevOps](https://www.mendix.com/videos/version-control-and-ci-cd-with-mendix-and-azure-devops/) - This video cover how to setup your Azure environment to deploy Mendix, building a CI/CD Pipeline to checkout your latest code and build deploy your Mendix app and some ideas on how to enhance your Mendix CI/CD pipeline.
-- [Lean Daily Management](https://www.youtube.com/watch?v=AZ1XLfmTWME&t=178s) - AWS IoT Twinmaker 연동 데모, Supporting widgets for the 3D plant view 와 KVS video 피드 지원 위젯 확인 가능. [마켓플레이스 링크](https://marketplace.mendix.com/link/component/211852)에서 세부 사항 확인 가능 
+- [Lean Daily Management](https://www.youtube.com/watch?v=AZ1XLfmTWME&t=178s) - AWS IoT Twinmaker 연동 데모, 3D plant view 와 KVS video 피드 지원 위젯 확인 가능. [마켓플레이스](https://marketplace.mendix.com/link/component/211852)에서 세부 사항 확인 가능 
 
 ### 한국어 영상 및 자막 지원 영상
 
