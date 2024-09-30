@@ -19,6 +19,8 @@
   - [Mendix 4 Private Cloud and Private Mendix Platform](#mendix-4-private-cloud-and-private-mendix-platform)
     - [Mendix 4 Private Cloud (MX4PC)](#mendix-4-private-cloud-mx4pc)
     - [Private Mendix Platform](#private-mendix-platform)
+  - [Mendix Echo Resources](#mendix-echo-resources)
+    - [Personal Blogs](#personal-blogs)
   - [Contribute](#contribute)
 
 
@@ -92,6 +94,12 @@ Mendix 공식 문서, 블로그 및 학습 자료
 
 ### Private Mendix Platform
 - 
+
+## Mendix Echo Resources
+
+### Personal Blogs
+
+- [Mendix 개발일지](https://echomendix.tistory.com/) - 라이루이님의 개인 블로그
 
 
 ## Contribute
