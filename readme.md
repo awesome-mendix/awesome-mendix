@@ -1,11 +1,11 @@
-# awesome-mendix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awsome Mendix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Helpful information about using Mendix low-code platform. Mendix와 관련된 유용한 정보를 공유하기 위한 리스트 입니다.
 
 
 ## Contents
 
-- [awesome-mendix ](#awesome-mendix-)
+- [Awsome Mendix ](#awsome-mendix-)
   - [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Community](#community)
