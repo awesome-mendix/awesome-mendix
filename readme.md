@@ -41,6 +41,7 @@ Mendix 공식 문서, 블로그 및 학습 자료
 - [Market Place](https://marketplace.mendix.com/) - 마켓 플레이스 
 - [Get Studio Pro](https://marketplace.mendix.com/link/studiopro/) - Mendix Studio Pro Download
 - [Mendix Github Repo](https://github.com/mendix) - Mendix Official Github Repo
+- [멘딕스 코리아 공식 블로그](https://blog.naver.com/mendix_kr) - Mendix Korea Official Blog
 
 
 
@@ -100,7 +101,7 @@ Mendix 공식 문서, 블로그 및 학습 자료
 ### Personal Blogs
 
 - [Mendix 개발일지](https://echomendix.tistory.com/) - 라이루이님의 개인 블로그
-
+- [물펀치로 뿌셔뿌셔](https://wpunch2000.tistory.com/category/Mendix) - WaterPunch 님 개인 블로그
 
 ## Contribute
 
