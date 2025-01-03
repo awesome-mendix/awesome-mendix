@@ -77,7 +77,8 @@
 ### On-Demand Demo
 
 - [Version Control and CI/CD with Mendix and Azure DevOps](https://www.mendix.com/videos/version-control-and-ci-cd-with-mendix-and-azure-devops/) - This video cover how to setup your Azure environment to deploy Mendix, building a CI/CD Pipeline to checkout your latest code and build deploy your Mendix app and some ideas on how to enhance your Mendix CI/CD pipeline.
-- [Lean Daily Management](https://www.youtube.com/watch?v=AZ1XLfmTWME&t=178s) - AWS IoT Twinmaker 연동 데모, 3D plant view 와 KVS video 피드 지원 위젯 확인 가능. [마켓플레이스](https://marketplace.mendix.com/link/component/211852)에서 세부 사항 확인 가능. 
+- [Lean Daily Management](https://www.youtube.com/watch?v=AZ1XLfmTWME&t=178s) - AWS IoT Twinmaker 연동 데모, 3D plant view 와 KVS video 피드 지원 위젯 확인 가능.
+  
 
 ### 한국어 영상 및 자막 지원 영상
 
@@ -87,7 +88,7 @@
 ## Mendix 4 Private Cloud and Private Mendix Platform
 
 ### Mendix 4 Private Cloud (MX4PC)
-- [MX4PC on AWS](https://aws.amazon.com/ko/solutions/partners/terraform-modules/mendix-eks/) - AWS 기반 MX4PC 설치 참조 아키텍처
+- [MX4PC on AWS](https://aws.amazon.com/ko/solutions/partners/terraform-modules/mendix-eks/) - AWS 기반 MX4PC 설치 참조 아키텍처.
 - [MX4PC on AWS 설치(Terraform EKS 모듈 사용)](https://registry.terraform.io/modules/aws-ia/mendix-private-cloud/aws/latest) - MX4PC 설치 Terraform 모듈 (테라폼을 이용하여 MX4PC를 손쉽게 구성).
   
 
