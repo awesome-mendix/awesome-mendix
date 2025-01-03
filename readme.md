@@ -27,7 +27,7 @@
 ## Official Resources
 
 - [Mendix 홈페이지](https://www.mendix.com/) - Mendix 공식 홈페이지.
-- [Mendix 한글 홈페이지](https://www.mendix.com/ko/) - Mendix 한글 홈페이지. 제한된 내용만 한글화 지원.
+- [Mendix 한글 홈페이지](https://www.mendix.com/ko/) - Mendix 한글 홈페이지, 제한된 내용만 한글화 지원.
 - [Documentation](https://docs.mendix.com/) - 공식 문서.
 - [Quick Start Guide](https://docs.mendix.com/quickstarts/) - Quick 스타트 가이드.
 - [Platform Evaluation Guide](https://www.mendix.com/evaluation-guide/) - 플랫폼 평가 가이드.
