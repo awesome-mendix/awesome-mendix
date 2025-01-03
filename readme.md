@@ -54,7 +54,7 @@ Mendix 공식 문서, 블로그 및 학습 자료
 
 ## Git Repos
 
-- [Mendix MK Kit Demo](https://github.com/mendix/mlkit-example-app)
+- [Mendix MK Kit Demo](https://github.com/mendix/mlkit-example-app) - Mendix ML Kit 활용 데모
 
 ## Blog Posts
 
@@ -73,8 +73,8 @@ Mendix 공식 문서, 블로그 및 학습 자료
 
 ### YouTube 강의
 
-- [How to Mendix @멘딕스 웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo)
-- [Mendix 첫걸음 @멘딕스 웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF)
+- [How to Mendix @멘딕스 웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo) - 멘딕스웨이님의 How to Mendix
+- [Mendix 첫걸음 @멘딕스 웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF) - 멘딕스웨이님의 Mendix 첫걸음
 
 ### On-Demand Demo
 
