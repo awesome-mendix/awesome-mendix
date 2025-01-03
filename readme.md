@@ -31,13 +31,13 @@
 - [Documentation](https://docs.mendix.com/) - 공식 문서.
 - [Quick Start Guide](https://docs.mendix.com/quickstarts/) - Quick 스타트 가이드.
 - [Platform Evaluation Guide](https://www.mendix.com/evaluation-guide/) - 플랫폼 평가 가이드.
-- [Blog](https://www.mendix.com/blog/) - 공식 블로그.
+- [Official Blog](https://www.mendix.com/blog/) - 공식 블로그.
 - [Developer Blog](https://www.mendix.com/developer-center/blog/) - 개발자 센터 블로그.
 - [Customer Stories](https://www.mendix.com/customer-stories/) - 고객 사례.
 - [Mendix Video Library](https://www.mendix.com/videos/) - 멘딕스 비디오 라이브러리.
 - [Academy](https://academy.mendix.com/link/home) - Free online training resources.
 - [Market Place](https://marketplace.mendix.com/) - 마켓 플레이스.
-- [Get Studio Pro](https://marketplace.mendix.com/link/studiopro/) - Mendix Studio Pro Download.
+- [Get Studio Pro](https://marketplace.mendix.com/link/studiopro/) - Mendix Studio Pro Download link.
 - [Mendix GitHub Repo](https://github.com/mendix) - Mendix Official GitHub Repo.
 - [멘딕스 코리아 공식 블로그](https://blog.naver.com/mendix_kr) - Mendix Korea Official Blog.
 
@@ -90,7 +90,7 @@
 ### Mendix 4 Private Cloud (MX4PC)
 
 - [MX4PC on AWS](https://aws.amazon.com/ko/solutions/partners/terraform-modules/mendix-eks/) - AWS 기반 MX4PC 설치 참조 아키텍처.
-- [MX4PC on AWS 설치(Terraform EKS 모듈 사용)](https://registry.terraform.io/modules/aws-ia/mendix-private-cloud/aws/latest) - MX4PC 설치 Terraform 모듈 (테라폼을 이용하여 MX4PC를 손쉽게 구성).
+- [MX4PC on AWS 설치(Terraform EKS 모듈 사용)](https://registry.terraform.io/modules/aws-ia/mendix-private-cloud/aws/latest) - MX4PC 설치 Terraform 모듈.
   
 
 ### Private Mendix Platform
