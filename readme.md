@@ -81,7 +81,7 @@
 
 ### 한국어 영상 및 자막 지원 영상
 
-- [제조산업의 디지털 혁신을 위한 차세대 애플리케이션 개발 플랫폼](https://youtu.be/hycW2MzUyXc?si=_faL8F7stQC5kVgb): (PLM 컨퍼런스 2022) 멘딕스 - 지멘스 디지털 인더스트리 소프트웨어 김재성 전 본부장.
+- [제조산업의 디지털 혁신을 위한 차세대 애플리케이션 개발 플랫폼](https://youtu.be/hycW2MzUyXc?si=_faL8F7stQC5kVgb): PLM 컨퍼런스 2022. 멘딕스-지멘스 디지털 인더스트리 소프트웨어 김재성 전 본부장.
 
 
 ## Mendix 4 Private Cloud and Private Mendix Platform
