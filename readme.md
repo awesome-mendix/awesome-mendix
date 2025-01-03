@@ -40,7 +40,7 @@ Mendix 공식 문서, 블로그 및 학습 자료
 - [Academy](https://academy.mendix.com/link/home) - Free online training resources
 - [Market Place](https://marketplace.mendix.com/) - 마켓 플레이스 
 - [Get Studio Pro](https://marketplace.mendix.com/link/studiopro/) - Mendix Studio Pro Download
-- [Mendix Github Repo](https://github.com/mendix) - Mendix Official Github Repo
+- [Mendix GitHub Repo](https://github.com/mendix) - Mendix Official GitHub Repo
 - [멘딕스 코리아 공식 블로그](https://blog.naver.com/mendix_kr) - Mendix Korea Official Blog
 
 
