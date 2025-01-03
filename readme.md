@@ -66,13 +66,13 @@
 
 - [Mendix Community](https://www.youtube.com/c/MendixCommunity) - Mendix Community 채널.
 - [Mendix Online](https://www.youtube.com/@MendixOnline) - Mendix Online 채널.
-- [MendixWay](https://www.youtube.com/@mendix-way) - 멘딕스 웨이 채널.
+- [멘딕스웨이](https://www.youtube.com/@mendix-way) - 멘딕스 웨이 채널.
 - [Mendix With Me](https://www.youtube.com/@MendixWithMe) - Mendix With Me 채널.
 
 ### YouTube 강의
 
-- [How to Mendix @멘딕스 웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo) - 멘딕스웨이님의 How to Mendix.
-- [Mendix 첫걸음 @멘딕스 웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF) - 멘딕스웨이님의 Mendix 첫걸음.
+- [How to Mendix](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo) - 멘딕스웨이님의 How to Mendix.
+- [Mendix 첫걸음](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF) - 멘딕스웨이님의 Mendix 첫걸음.
 
 ### On-Demand Demo
 
