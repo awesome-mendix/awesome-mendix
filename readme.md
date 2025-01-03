@@ -88,6 +88,7 @@
 ## Mendix 4 Private Cloud and Private Mendix Platform
 
 ### Mendix 4 Private Cloud (MX4PC)
+
 - [MX4PC on AWS](https://aws.amazon.com/ko/solutions/partners/terraform-modules/mendix-eks/) - AWS 기반 MX4PC 설치 참조 아키텍처.
 - [MX4PC on AWS 설치(Terraform EKS 모듈 사용)](https://registry.terraform.io/modules/aws-ia/mendix-private-cloud/aws/latest) - MX4PC 설치 Terraform 모듈 (테라폼을 이용하여 MX4PC를 손쉽게 구성).
   
