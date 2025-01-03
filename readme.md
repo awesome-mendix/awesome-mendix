@@ -5,28 +5,29 @@
 
 ## Contents <!-- omit in toc -->
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Git Repos](#git-repos)
-- [Blog Posts](#blog-posts)
-- [Videos](#videos)
-  - [YouTube 채널](#youtube-채널)
-  - [YouTube 강의](#youtube-강의)
-  - [On-Demand Demo](#on-demand-demo)
-  - [한국어 영상 및 자막 지원 영상](#한국어-영상-및-자막-지원-영상)
-- [Mendix 4 Private Cloud and Private Mendix Platform](#mendix-4-private-cloud-and-private-mendix-platform)
-  - [Mendix 4 Private Cloud (MX4PC)](#mendix-4-private-cloud-mx4pc)
-  - [Private Mendix Platform](#private-mendix-platform)
-- [Mendix Echo Resources](#mendix-echo-resources)
-  - [Personal Blogs](#personal-blogs)
-- [Contribute](#contribute)
+- [Awesome Mendix](#awesome-mendix)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
+  - [Git Repos](#git-repos)
+  - [Blog Posts](#blog-posts)
+  - [Videos](#videos)
+    - [YouTube 채널](#youtube-채널)
+    - [YouTube 강의](#youtube-강의)
+    - [On-Demand Demo](#on-demand-demo)
+    - [한국어 영상 및 자막 지원 영상](#한국어-영상-및-자막-지원-영상)
+  - [Mendix 4 Private Cloud and Private Mendix Platform](#mendix-4-private-cloud-and-private-mendix-platform)
+    - [Mendix 4 Private Cloud (MX4PC)](#mendix-4-private-cloud-mx4pc)
+    - [Private Mendix Platform](#private-mendix-platform)
+  - [Mendix Echo Resources](#mendix-echo-resources)
+    - [Personal Blogs](#personal-blogs)
+  - [Contribute](#contribute)
 
 
 ## Official Resources
 
 - [Mendix 홈페이지](https://www.mendix.com/) - Mendix 공식 홈페이지.
 - [Mendix 한글 홈페이지](https://www.mendix.com/ko/) - Mendix 한글 홈페이지, 제한된 내용만 한글화 지원.
-- [Documentation](https://docs.mendix.com/) - 공식 문서.
+- [Documentation](https://docs.mendix.com/) - (공식 문서).
 - [Quick Start Guide](https://docs.mendix.com/quickstarts/) - Quick 스타트 가이드.
 - [Platform Evaluation Guide](https://www.mendix.com/evaluation-guide/) - 플랫폼 평가 가이드.
 - [Official Blog](https://www.mendix.com/blog/) - 공식 블로그.
