@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Git Repos](#git-repos)
