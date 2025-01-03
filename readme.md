@@ -98,7 +98,7 @@
 
 ### Personal Blogs
 
-- [Mendix 개발일지](https://echomendix.tistory.com/) - 라이루이님의 개인 블로그.
+- [Mendix 개발일지](https://echomendix.tistory.com/) - (라이루이님의 개인 블로그).
 - [물펀치로 뿌셔뿌셔](https://wpunch2000.tistory.com/category/Mendix) - WaterPunch 님 개인 블로그.
 
 ## Contribute
