@@ -3,7 +3,7 @@
 > Helpful information about using Mendix low-code application development platform. Mendix와 관련된 유용한 정보를 공유하기 위한 리스트 입니다.
 
 
-## Contents
+## Contents <!-- omit in toc -->
 
 - [Official Resources](#official-resources)
 - [Community](#community)
