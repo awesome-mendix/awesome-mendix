@@ -1,11 +1,11 @@
-# Awesome Mendix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Mendix[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Helpful information about using Mendix low-code platform. Mendix와 관련된 유용한 정보를 공유하기 위한 리스트 입니다.
 
 
 ## Contents
 
-- [Awesome Mendix ](#awesome-mendix-)
+- [Awesome Mendix](#awesome-mendix)
   - [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Community](#community)
@@ -83,7 +83,7 @@ Mendix 공식 문서, 블로그 및 학습 자료
 
 ### 한국어 영상 및 자막 지원 영상
 
-- [제조산업의 디지털 혁신을 위한 차세대 애플리케이션 개발 플랫폼](https://youtu.be/hycW2MzUyXc?si=_faL8F7stQC5kVgb): [PLM 컨퍼런스 2022] 멘딕스 - 지멘스 디지털 인더스트리 소프트웨어 김재성 전 본부장
+- [제조산업의 디지털 혁신을 위한 차세대 애플리케이션 개발 플랫폼](https://youtu.be/hycW2MzUyXc?si=_faL8F7stQC5kVgb): (PLM 컨퍼런스 2022) 멘딕스 - 지멘스 디지털 인더스트리 소프트웨어 김재성 전 본부장
 
 
 ## Mendix 4 Private Cloud and Private Mendix Platform
