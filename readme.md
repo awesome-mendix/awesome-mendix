@@ -1,6 +1,6 @@
 # Awesome Mendix[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Helpful information about using Mendix low-code platform. Mendix와 관련된 유용한 정보를 공유하기 위한 리스트 입니다.
+> Helpful information about using Mendix low-code application development platform. Mendix와 관련된 유용한 정보를 공유하기 위한 리스트 입니다.
 
 
 ## Contents
@@ -27,7 +27,7 @@
 ## Official Resources
 
 - [Mendix 홈페이지](https://www.mendix.com/) - Mendix 공식 홈페이지.
-- [Mendix 한글 홈페이지](https://www.mendix.com/ko/) - Mendix 한글 홈페이지 (제한된 내용만 한글화 지원).
+- [Mendix 한글 홈페이지](https://www.mendix.com/ko/) - Mendix 한글 홈페이지. 제한된 내용만 한글화 지원.
 - [Documentation](https://docs.mendix.com/) - 공식 문서.
 - [Quick Start Guide](https://docs.mendix.com/quickstarts/) - Quick 스타트 가이드.
 - [Platform Evaluation Guide](https://www.mendix.com/evaluation-guide/) - 플랫폼 평가 가이드.
