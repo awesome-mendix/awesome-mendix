@@ -28,13 +28,13 @@
 - [Mendix 한글 홈페이지](https://www.mendix.com/ko/) - Mendix 한글 홈페이지, 제한된 내용만 한글화 지원.
 - [Documentation](https://docs.mendix.com/) - (공식 문서).
 - [Quick Start Guide](https://docs.mendix.com/quickstarts/) - Quick 스타트 가이드.
-- [Platform Evaluation Guide](https://www.mendix.com/evaluation-guide/) - 플랫폼 평가 가이드.
-- [Official Blog](https://www.mendix.com/blog/) - 공식 블로그.
-- [Developer Blog](https://www.mendix.com/developer-center/blog/) - 개발자 센터 블로그.
-- [Customer Stories](https://www.mendix.com/customer-stories/) - 고객 사례.
-- [Mendix Video Library](https://www.mendix.com/videos/) - 멘딕스 비디오 라이브러리.
+- [Platform Evaluation Guide](https://www.mendix.com/evaluation-guide/) - (플랫폼 평가 가이드).
+- [Official Blog](https://www.mendix.com/blog/) - Official blog.
+- [Developer Blog](https://www.mendix.com/developer-center/blog/) - Developer Center(개발자 센터) 블로그.
+- [Customer Stories](https://www.mendix.com/customer-stories/) - Customer(고객) 사례.
+- [Mendix Video Library](https://www.mendix.com/videos/) - Mendix Video 라이브러리.
 - [Academy](https://academy.mendix.com/link/home) - Free online training resources.
-- [Market Place](https://marketplace.mendix.com/) - 마켓 플레이스.
+- [Market Place](https://marketplace.mendix.com/) - On-line MarketPlace.
 - [Get Studio Pro](https://marketplace.mendix.com/link/studiopro/) - Mendix Studio Pro Download link.
 - [Mendix GitHub Repo](https://github.com/mendix) - Mendix Official GitHub Repo.
 - [멘딕스 코리아 공식 블로그](https://blog.naver.com/mendix_kr) - Mendix Korea Official Blog.
@@ -43,9 +43,9 @@
 
 ## Community
 
-- [파트너 블로그](https://www.mendix.com/partners/blog/) - 멘딕스 파트너 블로그.
-- [Mendix Forum](https://community.mendix.com/index3.html) - 멘딕스 커뮤니티 포럼.
-- [한국 커뮤니티](https://community.mendix.com/link/space/korean-community) - 멘틱스 커뮤니티 포럼 내 한국 커뮤니티, 한글로 질문 가능합니다.
+- [파트너 블로그](https://www.mendix.com/partners/blog/) - Mendix 파트너 블로그.
+- [Mendix Forum](https://community.mendix.com/index3.html) - Mendix Community 포럼.
+- [한국 커뮤니티](https://community.mendix.com/link/space/korean-community) - Mendix Community 포럼 내 한국 커뮤니티, 한글로 질문 가능합니다.
 
 
 ## Git Repos
@@ -64,13 +64,13 @@
 
 - [Mendix Community](https://www.youtube.com/c/MendixCommunity) - Mendix Community 채널.
 - [Mendix Online](https://www.youtube.com/@MendixOnline) - Mendix Online 채널.
-- [멘딕스웨이](https://www.youtube.com/@mendix-way) - 멘딕스 웨이 채널.
+- [멘딕스웨이](https://www.youtube.com/@mendix-way) - MendixWay 채널.
 - [Mendix With Me](https://www.youtube.com/@MendixWithMe) - Mendix With Me 채널.
 
 ### YouTube 강의
 
-- [How to Mendix](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo) - 멘딕스웨이님의 How to Mendix.
-- [Mendix 첫걸음](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF) - 멘딕스웨이님의 Mendix 첫걸음.
+- [How to Mendix@멘딕스웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo) - MendixWay님의 How to Mendix.
+- [Mendix 첫걸음@멘딕스웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF) - MendixWay님의 Mendix 첫걸음.
 
 ### On-Demand Demo
 
