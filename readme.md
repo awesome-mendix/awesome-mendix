@@ -26,8 +26,6 @@
 
 ## Official Resources
 
-Mendix 공식 문서, 블로그 및 학습 자료
-
 - [Mendix 홈페이지](https://www.mendix.com/) - Mendix 공식 홈페이지.
 - [Mendix 한글 홈페이지](https://www.mendix.com/ko/) - Mendix 한글 홈페이지 (제한된 내용만 한글화 지원).
 - [Documentation](https://docs.mendix.com/) - 공식 문서.
