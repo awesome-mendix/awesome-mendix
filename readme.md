@@ -38,12 +38,13 @@
 - [Get Studio Pro](https://marketplace.mendix.com/link/studiopro/) - Mendix Studio Pro Download link.
 - [Mendix GitHub Repo](https://github.com/mendix) - Mendix Official GitHub Repo.
 - [멘딕스 코리아 공식 블로그](https://blog.naver.com/mendix_kr) - Mendix Korea Official Blog.
+- [파트너 블로그](https://www.mendix.com/partners/blog/) - Mendix 파트너 블로그.
 
 
 
 ## Community
 
-- [파트너 블로그](https://www.mendix.com/partners/blog/) - Mendix 파트너 블로그.
+- [Medium Community](https://medium.com/mendix) - Medium 내 Mendix Community
 - [Mendix Forum](https://community.mendix.com/index3.html) - Mendix Community 포럼.
 - [한국 커뮤니티](https://community.mendix.com/link/space/korean-community) - Mendix Community 포럼 내 한국 커뮤니티, 한글로 질문 가능합니다.
 
