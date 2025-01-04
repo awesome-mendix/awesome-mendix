@@ -29,7 +29,7 @@
 - [Documentation](https://docs.mendix.com/) - (공식 문서).
 - [Quick Start Guide](https://docs.mendix.com/quickstarts/) - Quick 스타트 가이드.
 - [Platform Evaluation Guide](https://www.mendix.com/evaluation-guide/) - (플랫폼 평가 가이드).
-- [Official Blog](https://www.mendix.com/blog/) - Official blog.
+- [Official Blog](https://www.mendix.com/blog/) - Official blog.
 - [Developer Blog](https://www.mendix.com/developer-center/blog/) - Developer Center(개발자 센터) 블로그.
 - [Customer Stories](https://www.mendix.com/customer-stories/) - Customer(고객) 사례.
 - [Mendix Video Library](https://www.mendix.com/videos/) - Mendix Video 라이브러리.
