@@ -44,7 +44,7 @@
 
 ## Community
 
-- [Medium Community](https://medium.com/mendix) - Medium 내 Mendix Community
+- [Medium Community](https://medium.com/mendix) - Medium 내 Mendix Community.
 - [Mendix Forum](https://community.mendix.com/index3.html) - Mendix Community 포럼.
 - [한국 커뮤니티](https://community.mendix.com/link/space/korean-community) - Mendix Community 포럼 내 한국 커뮤니티, 한글로 질문 가능합니다.
 
