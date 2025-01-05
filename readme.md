@@ -109,6 +109,7 @@
 - [물펀치로 뿌셔뿌셔](https://wpunch2000.tistory.com/category/Mendix) - WaterPunch 님 개인 블로그.
 - [현규의 공부방](https://blog.naver.com/hyunkyu_study) - (마틴독님의 블로그, 자바와 멘딕스 스터디 자료 공유).
 - [mondegreen](https://rileylee.tistory.com/category/Mendix) - rileylee의 개인 블로그, IT와 멘딕스 관련 스터디 내용 공유.
+- [SNOWFL](https://blog.naver.com/ujchang0) - Mendix, OutSystem 관련 정보가 함께 제공.
 
 ## Contribute
 
