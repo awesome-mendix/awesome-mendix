@@ -107,6 +107,7 @@
 
 - [Mendix 개발일지](https://echomendix.tistory.com/) - (라이루이님의 개인 블로그).
 - [물펀치로 뿌셔뿌셔](https://wpunch2000.tistory.com/category/Mendix) - WaterPunch 님 개인 블로그.
+- [현규의 공부방](https://blog.naver.com/hyunkyu_study) - (마틴독님의 블로그, 자바와 멘딕스 스터디 자료 공유).
 
 ## Contribute
 
