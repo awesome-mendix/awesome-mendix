@@ -67,6 +67,7 @@
 - [Mendix Online](https://www.youtube.com/@MendixOnline) - Mendix Online 채널.
 - [멘딕스웨이](https://www.youtube.com/@mendix-way) - MendixWay 채널.
 - [Mendix With Me](https://www.youtube.com/@MendixWithMe) - Mendix With Me 채널.
+- [Matt Talks Mendix](https://www.youtube.com/@MattTalksMendix) - Matt Talks Mendix 채널.
 
 
 ### YouTube 강의
