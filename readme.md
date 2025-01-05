@@ -74,7 +74,8 @@
 - [How to Mendix@멘딕스웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo) - MendixWay님의 How to Mendix.
 - [Mendix 첫걸음@멘딕스웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF) - MendixWay님의 Mendix 첫걸음.
 - [How to Mendix](https://www.youtube.com/playlist?list=PLco1XUMELxA3dq9VrYBLj1s1QNZN8xbmM) - HowToProgram 채널의 멘딕스 안내 채널.
-- [Mendix Mastery](https://www.youtube.com/@MendixMastery) - MendixMastery님의 멘딕스 강의 채널, Rapid, Intermediat 과정 제공.
+- [Mendix Mastery](https://www.youtube.com/@MendixMastery) - MendixMastery님의 멘딕스 강의 채널, Rapid, Intermediate 과정 제공.
+- [AuraQ UK](https://www.youtube.com/@auraquk) - AuraQ UK에서 제공하는 Rapid, Intermediate 과정.
 
 ### On-Demand Demo
 
