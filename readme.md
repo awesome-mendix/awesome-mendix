@@ -67,12 +67,14 @@
 - [Mendix Online](https://www.youtube.com/@MendixOnline) - Mendix Online 채널.
 - [멘딕스웨이](https://www.youtube.com/@mendix-way) - MendixWay 채널.
 - [Mendix With Me](https://www.youtube.com/@MendixWithMe) - Mendix With Me 채널.
-- [How to Mendix](https://www.youtube.com/playlist?list=PLco1XUMELxA3dq9VrYBLj1s1QNZN8xbmM) - HowToProgram 채널의 멘딕스 안내 채널.
+
 
 ### YouTube 강의
 
 - [How to Mendix@멘딕스웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Rd6qft0mfZnzKXc7czL2uo) - MendixWay님의 How to Mendix.
 - [Mendix 첫걸음@멘딕스웨이](https://www.youtube.com/playlist?list=PL7GqMLQw_99Saf3QDoXB3cxXDCZHOYcLF) - MendixWay님의 Mendix 첫걸음.
+- [How to Mendix](https://www.youtube.com/playlist?list=PLco1XUMELxA3dq9VrYBLj1s1QNZN8xbmM) - HowToProgram 채널의 멘딕스 안내 채널.
+- [Mendix Mastery](https://www.youtube.com/@MendixMastery) - MendixMastery님의 멘딕스 강의 채널, Rapid, Intermediat 과정 제공.
 
 ### On-Demand Demo
 
